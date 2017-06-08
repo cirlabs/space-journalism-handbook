@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## The Space Journalism Handbook: A work in progress
 
 You can use the [editor on GitHub](https://github.com/cirlabs/space-journalism-handbook/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
