@@ -6,7 +6,7 @@ This manual focuses on techniques and tools for analyzing imagery collected by s
 
 Enter the Space Journalism Handbook, an ongoing project to help ease journalists into the field of remote sensing. This type of resource does not exist for journalists; existing documentation and textbooks covering the topic are incredibly complicated and geared towards scientists and other experts in the field.
 
-The effort to write a manual began with a [workshop](https://www.revealnews.org/article/techraking-20-news-from-the-sky/) of more than 70 journalists and remote sensing experts at Google’s San Francisco offices in September 2017. Participants discussed the fundamentals of working with satellite imagery and crafted a rough [outline](http://spacejournalismhandbook.com/outline.html) of the manual.
+The effort to write a manual began with a [workshop](https://www.revealnews.org/article/techraking-20-news-from-the-sky/) of more than 70 journalists and remote sensing experts at Google’s San Francisco offices in September 2017. Participants discussed the fundamentals of working with satellite imagery and crafted a rough [outline]({{site.baseurl}}{% link outline.md %}) of the manual.
 
 Work on the handbook is underway and we are currently seeking contributors to help write portions of the book. If you are interested in participating, please sign up [here](https://groups.google.com/forum/#!forum/spacej-edit/join). Check back here for further updates on the progress of the project.
 
