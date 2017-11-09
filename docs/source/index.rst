@@ -1,16 +1,6 @@
 Welcome to Space Journalism Handbook's documentation!
 =====================================================
 
-.. toctree::
-   :maxdepth: 2
-   :caption: Contents:
-
-   cartography-and-mapping
-   bands-and-indices
-   making-invisible-visible
-   talking-to-scientists
-
-
 Welcome to the Space Journalism Handbook, a resource for reporters working with remote sensing data.
 
 This manual focuses on techniques and tools for analyzing imagery collected by satellite or aircraft. Remote sensing can be a challenging field for journalists to dive into; working with the data requires not only a knowledge of mapping and image manipulation, but an understanding of the science behind the various types of imagery analysis.
@@ -29,6 +19,16 @@ International License`_.
 
 .. |Creative Commons License| image:: https://i.creativecommons.org/l/by/4.0/88x31.png
    :target: http://creativecommons.org/licenses/by/4.0/
+
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Contents:
+
+   cartography-and-mapping
+   bands-and-indices
+   making-invisible-visible
+   talking-to-scientists
 
 
 
